@@ -51,7 +51,7 @@ namespace app01
 
             numero_i = (int)numero_i + numero;
 
-            Console.WriteLine("El número invertido de " + x + textos[1] + numero_i);
+            Console.WriteLine("El número invertido de xxxx" + x + textos[1] + numero_i);
             Console.ReadKey();
         }
     }
